@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Injoong Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **Newbie** developer."
   location         : "Seoul, Korea"
   email            :
   links:
@@ -110,7 +110,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/injung93"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Domainjoong"
