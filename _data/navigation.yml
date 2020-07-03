@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Sample Test"
+    url: https://domainjoong.github.io/docs/test/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
